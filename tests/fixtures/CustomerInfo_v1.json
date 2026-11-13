@@ -1,0 +1,21 @@
+{
+ "customerid": "12345",
+ "nazwa": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1",
+ "nip": "1111111111",
+ "regon": "222222222",
+ "pesel": "",
+ "tel": "500000000",
+ "kom": "500000000",
+ "fax": "",
+ "email": "zarzad@example.com",
+ "adres": "TESTOWA 1A/2, 00-001 KRAKÓW",
+ "korespondencja": "",
+ "nieruchomosci": [
+  {
+   "lp": 1,
+   "adres": "TESTOWA 1A , 00-001 KRAKÓW",
+   "nazwa": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1",
+   "estateCode": 11111
+  }
+ ]
+}

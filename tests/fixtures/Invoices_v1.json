@@ -1,0 +1,138 @@
+[
+ {
+  "id": 11517605,
+  "nd": "PK/2026/12/527351",
+  "nw": "2026-01-02",
+  "ns": "2026-12-31",
+  "nt": "2026-12-14",
+  "np": "Gotówka/Przelew",
+  "ib": "PK/2026/1/40001",
+  "nn": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1",
+  "na": "TESTOWA 1A/2 KRAKÓW 00-001",
+  "ni": "1111111111",
+  "nr": "222222222",
+  "npe": "",
+  "sn": "MPO Sp. z o.o. \nZarządca Gminnego systemu gospodarowania odpadami komunalnymi",
+  "sa": "ul. Nowohucka 1 Kraków 31-580",
+  "si": "675-000-65-47",
+  "sr": "",
+  "st": "126462222",
+  "sf": "126462350",
+  "se": "mpo@mpo.krakow.pl",
+  "brutto": "140,00",
+  "cdnr": "",
+  "cid": "",
+  "ba": "00 1020 0000 0000 0000 0001 2345",
+  "positions": [
+   {
+    "lp": 1,
+    "pn": "Opłata za gospodarowanie odpadami komunalnymi",
+    "ad": "TESTOWA 1A, 00-001 KRAKÓW",
+    "pb": "140,00"
+   }
+  ],
+  "pw": []
+ },
+ {
+  "id": 11517604,
+  "nd": "PK/2026/11/527350",
+  "nw": "2026-01-02",
+  "ns": "2026-11-30",
+  "nt": "2026-11-14",
+  "np": "Gotówka/Przelew",
+  "ib": "PK/2026/1/40001",
+  "nn": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1",
+  "na": "TESTOWA 1A/2 KRAKÓW 00-001",
+  "ni": "1111111111",
+  "nr": "222222222",
+  "npe": "",
+  "sn": "MPO Sp. z o.o. \nZarządca Gminnego systemu gospodarowania odpadami komunalnymi",
+  "sa": "ul. Nowohucka 1 Kraków 31-580",
+  "si": "675-000-65-47",
+  "sr": "",
+  "st": "126462222",
+  "sf": "126462350",
+  "se": "mpo@mpo.krakow.pl",
+  "brutto": "140,00",
+  "cdnr": "",
+  "cid": "",
+  "ba": "00 1020 0000 0000 0000 0001 2345",
+  "positions": [
+   {
+    "lp": 1,
+    "pn": "Opłata za gospodarowanie odpadami komunalnymi",
+    "ad": "TESTOWA 1A, 00-001 KRAKÓW",
+    "pb": "140,00"
+   }
+  ],
+  "pw": []
+ },
+ {
+  "id": 11517603,
+  "nd": "PK/2026/10/527349",
+  "nw": "2026-01-02",
+  "ns": "2026-10-31",
+  "nt": "2026-10-14",
+  "np": "Gotówka/Przelew",
+  "ib": "PK/2026/1/40001",
+  "nn": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1",
+  "na": "TESTOWA 1A/2 KRAKÓW 00-001",
+  "ni": "1111111111",
+  "nr": "222222222",
+  "npe": "",
+  "sn": "MPO Sp. z o.o. \nZarządca Gminnego systemu gospodarowania odpadami komunalnymi",
+  "sa": "ul. Nowohucka 1 Kraków 31-580",
+  "si": "675-000-65-47",
+  "sr": "",
+  "st": "126462222",
+  "sf": "126462350",
+  "se": "mpo@mpo.krakow.pl",
+  "brutto": "140,00",
+  "cdnr": "",
+  "cid": "",
+  "ba": "00 1020 0000 0000 0000 0001 2345",
+  "positions": [
+   {
+    "lp": 1,
+    "pn": "Opłata za gospodarowanie odpadami komunalnymi",
+    "ad": "TESTOWA 1A, 00-001 KRAKÓW",
+    "pb": "140,00"
+   }
+  ],
+  "pw": []
+ },
+ {
+  "id": 11517602,
+  "nd": "PK/2026/9/527348",
+  "nw": "2026-01-02",
+  "ns": "2026-09-30",
+  "nt": "2026-09-14",
+  "np": "Gotówka/Przelew",
+  "ib": "PK/2026/1/40001",
+  "nn": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1",
+  "na": "TESTOWA 1A/2 KRAKÓW 00-001",
+  "ni": "1111111111",
+  "nr": "222222222",
+  "npe": "",
+  "sn": "MPO Sp. z o.o. \nZarządca Gminnego systemu gospodarowania odpadami komunalnymi",
+  "sa": "ul. Nowohucka 1 Kraków 31-580",
+  "si": "675-000-65-47",
+  "sr": "",
+  "st": "126462222",
+  "sf": "126462350",
+  "se": "mpo@mpo.krakow.pl",
+  "brutto": "140,00",
+  "cdnr": "",
+  "cid": "",
+  "ba": "00 1020 0000 0000 0000 0001 2345",
+  "positions": [
+   {
+    "lp": 1,
+    "pn": "Opłata za gospodarowanie odpadami komunalnymi",
+    "ad": "TESTOWA 1A, 00-001 KRAKÓW",
+    "pb": "140,00"
+   }
+  ],
+  "pw": []
+ }
+]

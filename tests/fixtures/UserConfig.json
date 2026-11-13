@@ -1,0 +1,226 @@
+[
+ {
+  "name": "lastlogged",
+  "value": "2026-10-24 12:39:07"
+ },
+ {
+  "name": "language",
+  "value": 0
+ },
+ {
+  "name": "useremail",
+  "value": "zarzad@example.com"
+ },
+ {
+  "name": "username",
+  "value": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1"
+ },
+ {
+  "name": "usersgroupid",
+  "value": 4
+ },
+ {
+  "name": "tel",
+  "value": null
+ },
+ {
+  "name": "defaultmodulename",
+  "value": "homepage_v1"
+ },
+ {
+  "name": "nhpagesize",
+  "value": "10"
+ },
+ {
+  "name": "TemplateDir",
+  "value": "templates_very_new"
+ },
+ {
+  "name": "LiczbaWierszyWMalymMenu",
+  "value": "20"
+ },
+ {
+  "name": "TimeOut",
+  "value": "420000"
+ },
+ {
+  "name": "Captcha",
+  "value": "3"
+ },
+ {
+  "name": "Platnosci",
+  "value": null
+ },
+ {
+  "name": "updpagesize",
+  "value": "10"
+ },
+ {
+  "name": "regulamin",
+  "value": "2000-01-01"
+ },
+ {
+  "name": "unactivegroupid",
+  "value": null
+ },
+ {
+  "name": "sso",
+  "value": false
+ },
+ {
+  "name": "languages",
+  "value": [
+   {
+    "id": 0,
+    "name": "Polski",
+    "ico": "pl.png"
+   },
+   {
+    "id": 1,
+    "name": "English",
+    "ico": "eng.png"
+   }
+  ]
+ },
+ {
+  "name": "roles",
+  "value": [
+   {
+    "id": 1,
+    "module": "customerinfo_v1",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 2,
+    "module": "customerinfo_v1",
+    "role": 2,
+    "value": 1
+   },
+   {
+    "id": 3,
+    "module": "invoices_v1",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 4,
+    "module": "invoices_v1",
+    "role": 2,
+    "value": 1
+   },
+   {
+    "id": 5,
+    "module": "agreements_v1",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 8,
+    "module": "notifications_v1",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 6,
+    "module": "graph_v1",
+    "role": 1,
+    "value": 0
+   },
+   {
+    "id": 7,
+    "module": "analysis_v1",
+    "role": 1,
+    "value": 0
+   },
+   {
+    "id": 9,
+    "module": "notifications_v2",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 10,
+    "module": "notifications_v1",
+    "role": 2,
+    "value": 0
+   },
+   {
+    "id": 11,
+    "module": "notifyreadout_v1",
+    "role": 1,
+    "value": 0
+   },
+   {
+    "id": 12,
+    "module": "sod_v2",
+    "role": 1,
+    "value": 0
+   },
+   {
+    "id": 13,
+    "module": "invoices_v1",
+    "role": 3,
+    "value": 2
+   },
+   {
+    "id": 17,
+    "module": "settings_v1",
+    "role": 1,
+    "value": 0
+   },
+   {
+    "id": 59,
+    "module": "settings_v1",
+    "role": 2,
+    "value": 0
+   },
+   {
+    "id": 60,
+    "module": "settings_v1",
+    "role": 3,
+    "value": 0
+   },
+   {
+    "id": 63,
+    "module": "adminusers_v1",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 62,
+    "module": "adminusers_v2",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 64,
+    "module": "invoices_v1",
+    "role": 4,
+    "value": 1
+   },
+   {
+    "id": 65,
+    "module": "meters_v1",
+    "role": 1,
+    "value": 1
+   },
+   {
+    "id": 66,
+    "module": "agreements_v1",
+    "role": 2,
+    "value": 1
+   },
+   {
+    "id": 67,
+    "module": "passwordchange",
+    "role": 1,
+    "value": 0
+   }
+  ]
+ },
+ {
+  "name": "customername",
+  "value": "WSPÓLNOTA MIESZKANIOWA TESTOWA 1"
+ }
+]

@@ -1,0 +1,104 @@
+{
+ "result": [
+  {
+   "year": 2026,
+   "month": 1,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-01-14 23:59:59",
+   "minimumPaymentDate": "2026-01-14"
+  },
+  {
+   "year": 2026,
+   "month": 2,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-02-14 23:59:59",
+   "minimumPaymentDate": "2026-02-14"
+  },
+  {
+   "year": 2026,
+   "month": 3,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-03-14 23:59:59",
+   "minimumPaymentDate": "2026-03-14"
+  },
+  {
+   "year": 2026,
+   "month": 4,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-04-14 23:59:59",
+   "minimumPaymentDate": "2026-04-14"
+  },
+  {
+   "year": 2026,
+   "month": 5,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-05-14 23:59:59",
+   "minimumPaymentDate": "2026-05-14"
+  },
+  {
+   "year": 2026,
+   "month": 6,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-06-14 23:59:59",
+   "minimumPaymentDate": "2026-06-14"
+  },
+  {
+   "year": 2026,
+   "month": 7,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-07-14 23:59:59",
+   "minimumPaymentDate": "2026-07-14"
+  },
+  {
+   "year": 2026,
+   "month": 8,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-08-14 23:59:59",
+   "minimumPaymentDate": "2026-08-14"
+  },
+  {
+   "year": 2026,
+   "month": 9,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-09-14 23:59:59",
+   "minimumPaymentDate": "2026-09-14"
+  },
+  {
+   "year": 2026,
+   "month": 10,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-10-14 23:59:59",
+   "minimumPaymentDate": "2026-10-14"
+  },
+  {
+   "year": 2026,
+   "month": 11,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-11-14 23:59:59",
+   "minimumPaymentDate": "2026-11-14"
+  },
+  {
+   "year": 2026,
+   "month": 12,
+   "wymiar": "140,00",
+   "ksiegowosc": "140,00",
+   "paymentDate": "2026-12-14 23:59:59",
+   "minimumPaymentDate": "2026-12-14"
+  }
+ ],
+ "saldo": "-140.00",
+ "bankaccountno": "00 1020 0000 0000 0000 0001 2345",
+ "paymentmethod": "przelw_gotwka",
+ "paymentdate": "2026-11-14"
+}
